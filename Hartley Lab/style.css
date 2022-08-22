@@ -1,0 +1,159 @@
+header{
+    height: 60px;
+    width: 100%;
+}
+header h1{
+    text-align: center;
+
+}
+.btn{
+    background-color: rgb(253, 60, 60);
+    color: white;
+    border: none;
+    height: 60px;
+    float: right;
+    margin: 0;
+    padding: 0;
+   }
+.mydiv{
+    background-color: black;
+    height: 500px;
+    padding: 90px 40px;
+    width: 100%;
+}
+.mydiv h1{
+    color: white;
+    font-size: 50px;
+}
+.mydiv p{
+    color: white;
+    font-size: 20px;
+}
+.myspan{
+    color:rgb(253, 60, 60);
+}
+.mydiv2{
+    column-count: 2;
+    height: 500px;
+    padding: 90px 30px 30px 0px;
+    width: 100%;
+}
+.mydiv2 img{
+    border-radius: 50%;
+}
+.mydiv2 h1{
+    font-size: 50px;
+}
+.mydiv3{
+    height: 500px;
+    padding: 0px 30px;
+    width: 100%;
+}
+.mydiv3 h3{
+    font-size: 20px;
+}
+.sp a{
+   color: black;
+   text-decoration: none;
+   float: right;
+}
+.myD{
+    height: 270px;
+    width: 230px;
+    border: 1px solid rgb(247, 237, 237);
+    background-color: rgb(247, 237, 237);
+    border-radius: 20px;
+    padding: 30px 10px;
+   
+}
+.mydiv4{
+    margin: 50px 0px 0px 40px;
+    padding: 50px 0px 0px 40px;
+    height: 700px;
+    width: 100%;
+}
+#mydivID{
+    margin: 30px 10px;
+    column-count: 4;
+}
+.mydivID img{
+   text-align: center;
+}
+.mydiv5{
+    background-image: url("story-img-1.png");
+    height: 600px;
+    width: 100%;
+}
+.mydiv6{
+   
+    padding: 20px;
+    width: 100%;
+    text-align: center;
+}
+.img1{
+    padding: 10px 20px;
+    margin:10px 20px;
+    column-count:5;
+}
+.mydiv7{
+    padding:20px;
+    column-count: 2;
+    width: 100%;
+}
+.mydiv7 img{
+    border-radius: 50%;
+    column-gap: 5px;
+    padding: 20px;
+}
+.div1{
+    border: 1px solid gray;
+    border-radius: 5px;
+    height: 300px;
+    width: 40%;
+    background-image: url("blog-card-1-img.png");
+    background-repeat: no-repeat;
+}
+.parts{
+    column-count: 2;
+}
+.content{
+    height: 200px;
+    width:420px;
+    column-count: 2;
+    padding: 10px;
+    border: 1px solid gray;
+    border-radius: 5px;
+}
+.mydiv8{
+    background-image: url("mobile.png");
+    width: 100%;
+    border-radius: 5px;
+    border:1px solid grey ;
+    height: 600px;
+}
+.mydiv8 h1{
+    text-align: center;
+    align-items: center;
+    font-size: 30px;
+    color: white;
+}
+.mydiv8 p{
+    text-align: center;
+    align-items: center;
+    color: white;
+}
+.foot{
+    padding: 30px 60px;
+    width: 100%;
+}
+.list{
+    font-size: 18px;
+}
+.list li{
+    font-size: 15px;
+    list-style: none;
+}
+.footerdiv{
+    column-count: 4;
+    padding: 20px;
+}
